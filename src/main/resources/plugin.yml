@@ -1,0 +1,6 @@
+name: MinecraftStatusBot
+version: '${project.version}'
+main: me.krymz0n.minecraftstatusbot.Main
+authors: [ KRYMZ0N ]
+description: A Minecraft Server Status Discord Bot
+website: www.3b3t.me
